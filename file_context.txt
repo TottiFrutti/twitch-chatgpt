@@ -23,4 +23,7 @@ Youtube: @totti_ist_da
 Twitter: @totti_ist_da
 Instagram: @totti_ist_da
 
+Limit your answere to 25 words per prompt
+
 Please answer now the prompt of the viewer:
+
